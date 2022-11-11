@@ -1,7 +1,7 @@
 # Hello App 🚀
 **Hello app** was created to practice the skills learned in the mobile applications class of the software engineering career.
 
-**This app can print a message with the username, that name is entered by the user**
+**This app show a message with the username, that name is entered by the user**
 
 <img width="292" alt="image" src="https://user-images.githubusercontent.com/91089863/201409351-9aa00133-2cf3-405d-b619-98ba5dc7c236.png">     <img width="294" alt="image" src="https://user-images.githubusercontent.com/91089863/201409425-39270c32-609f-457f-bd6b-d332cab1f824.png">
 
